@@ -2,7 +2,7 @@
 # Cookbook Name:: centos7post
 # Recipe:: default
 #
-# Copyright 2018, YOUR_COMPANY_NAME
+# Copyright 2018, Linuxraja
 #
 # All rights reserved - Do Not Redistribute
 #
